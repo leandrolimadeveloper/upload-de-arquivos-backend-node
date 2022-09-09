@@ -1,5 +1,3 @@
-# Upload-de-Arquivos-Backend-Node.js
-
 <h1 align="center">Upload de Arquivos</h1>
 <p align="center">
     <a href="#sobre">Sobre |</a>

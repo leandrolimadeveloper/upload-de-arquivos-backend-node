@@ -13,6 +13,7 @@ const PostSchema = new mongoose.Schema({
     url: String,
     createdAt: {
         type: Date,
+        expires: '5m',
         default: Date.now
     }
 })
